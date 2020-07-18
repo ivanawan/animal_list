@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">animal list</string>
+    <string name="nama">namahewan</string>
+    <string name="detail">detail</string>
+    <string name="decription">deskripsi</string>
+    <string name="name">ivan setiawan</string>
+    <string name="email">ivansetiawanvll@gmail.com</string>
+    <string name="title">animal list</string>
+    <string name="label">Home</string>
+</resources>
